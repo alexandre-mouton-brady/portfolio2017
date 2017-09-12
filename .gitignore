@@ -1,0 +1,15 @@
+docs
+min
+.htaccess
+sitemap.xml
+safari-pinned-tab.svg
+og-image.jpg
+mstile-150x150.png
+manifest.json
+favicon-32x32.png
+favicon-16x16.png
+browserconfig.xml
+apple-touch-icon.png
+android-chrome-192x192.png
+android-chrome-515x512.png
+.gitignore
